@@ -10,6 +10,7 @@ git clone https://github.com/kejitan/ESpspVG1
 cd ESpspVG1
 --Create conda virtual environment PSP by running:
 conda create -n PSP python=3.6
+conda activate PSP
 pip install -r requirements.txt 
 ```
 
